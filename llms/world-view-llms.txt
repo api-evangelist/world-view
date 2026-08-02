@@ -1,0 +1,17 @@
+# World View
+
+> World View (World View Enterprises) is a Tucson, Arizona stratospheric balloon company focused on remote sensing and persistent intelligence, surveillance, and reconnaissance (ISR). Acquired by Ondas Holdings in 2026 and operating as part of Ondas Sentinel, it flies uncrewed high-altitude balloons carrying EO/FMV, IR, SAR, and hyperspectral sensors for defense, government, and commercial missions. World View publishes no public developer program or API.
+
+## Company
+
+- [Website](https://www.worldview.space/): Company homepage — "Better data. Faster insights. Smarter decisions."
+- [Stratospheric Sensing](https://www.worldview.space/stratospheric-sensing): High-altitude balloon remote-sensing platform
+- [Interconnected Intelligence](https://www.worldview.space/interconnected-intelligence): Multi-domain intelligence platform overview
+- [ISR Ecosystem](https://www.worldview.space/isr-ecosystem): Stratosphere, air, and ground ISR integration
+- [News](https://www.worldview.space/news): Press room and company stories
+- [Contact](https://www.worldview.space/contact): Contact and mission inquiries
+
+## Notes
+
+- No developer portal, API documentation, OpenAPI specification, SDKs, or public data products were found on the public site as of 2026-07-21.
+- Formerly known for its Stratollite platform and space-tourism ambitions; the current business is defense/ISR remote sensing under Ondas Sentinel.

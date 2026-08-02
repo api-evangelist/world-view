@@ -1,8 +1,12 @@
 aid: world-view
 name: World View
-description: 'World View is a company surfaced as a portfolio company of accel, canaan-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'World View (World View Enterprises) is a Tucson, Arizona-based stratospheric
+  balloon company focused on remote sensing and persistent intelligence, surveillance,
+  and reconnaissance (ISR). Its uncrewed high-altitude balloons carry EO/FMV, IR,
+  SAR, and hyperspectral sensors for defense, government, and commercial missions.
+  Acquired by Ondas Holdings in 2026, it now operates as part of the Ondas Sentinel
+  multi-domain intelligence platform, with partnerships including Palantir and Sierra
+  Nevada Corporation. World View publishes no public developer program or API.'
 url: https://raw.githubusercontent.com/api-evangelist/world-view/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +15,29 @@ x-backed-by:
 - canaan-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://cdn.prod.website-files.com/64236d0eb149436157b67ff5/6a511449866173c888241665_ondas-webclip.gif
 tags:
 - Company
 - Enterprise
+- Aerospace
+- Stratospheric Balloons
+- Remote Sensing
+- Defense
+- ISR
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,4 +46,21 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.worldview.space
+  url: https://www.worldview.space
+- type: Support
+  url: https://www.worldview.space/contact
+- type: Blog
+  url: https://www.worldview.space/news
+- type: TermsOfService
+  url: https://app.termly.io/document/terms-of-use-for-website/d1fdbae4-86c3-4502-8539-eed15567a232
+- type: PrivacyPolicy
+  url: https://app.termly.io/document/privacy-policy/5f9abeb4-820c-4e7b-86d7-942948997968
+- type: LLMsTxt
+  url: llms/world-view-llms.txt
+- type: DomainSecurity
+  url: security/world-view-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
